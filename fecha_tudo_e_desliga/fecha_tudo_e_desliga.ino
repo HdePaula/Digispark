@@ -1,6 +1,4 @@
-/*Usei a forma de abrir o cmd que mais achei eficiente,
- *evitando alguns erros quando o foco de digitacao nao estava livre.
- *
+/*
  *Altere o valor de "n" para definir o maximo de abas a serem fechadas.
  */
 
